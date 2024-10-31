@@ -1,0 +1,4 @@
+What needs to be done?
+Find URLs as links roughly grep -E '\(https://book\.the-turing-way\.org.*?\)' book/website/**/*.md
+Create references for chapters/sections if needed
+Replace links with cross-references
